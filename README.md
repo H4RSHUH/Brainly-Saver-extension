@@ -136,16 +136,6 @@ If you're not on:
 
 ---
 
-## 🌐 Backend Requirement
-
-Make sure your backend is deployed and accessible:
-
-```env
-https://your-backend-url.com
-```
-
----
-
 ## 📁 Project Structure
 
 ```text
